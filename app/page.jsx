@@ -1,3 +1,8 @@
 export default function homePage() {
-  return <h1>This is my first page</h1>;
+  return (
+    <>
+      <h1>Indie Gamer</h1>
+      <p>Best indie games will be reviewd here...</p>
+    </>
+  );
 }
