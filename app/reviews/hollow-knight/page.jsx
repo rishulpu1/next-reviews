@@ -1,7 +1,16 @@
+import Heading from "@/components/Heading";
+
 export default function hollowKnight() {
   return (
     <>
-      <h1>Hollow Knight</h1>
+      <Heading>Hollow Knight</Heading>
+      <img
+        src="/images/hollow-knight.jpg"
+        alt="Hollow Knight"
+        width="640"
+        height="360"
+        className="rounded mb-2"
+      />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis laborum,
         enim vel consectetur eaque eius! Esse ea quo nisi voluptatum mollitia

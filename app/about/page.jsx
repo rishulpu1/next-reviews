@@ -1,7 +1,9 @@
+import Heading from "@/components/Heading";
+
 export default function About() {
   return (
     <>
-      <h1>About Us</h1>
+      <Heading>About Us</Heading>
       <p>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis dolore
         assumenda tempore pariatur, aliquam cupiditate! Aperiam cumque nostrum
