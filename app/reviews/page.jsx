@@ -18,7 +18,9 @@ export default function reviews() {
                   height="180"
                   className="rounded-t"
                 />
-                <h2 className="text-center py-1">Stardew Valley</h2>
+                <h2 className="text-center py-1 font-orbitron font-semibold">
+                  Stardew Valley
+                </h2>
               </Link>
             </li>
             <li className="bg-white border rounded shadow w-80 hover:shadow-xl">
@@ -30,7 +32,9 @@ export default function reviews() {
                   height="180"
                   className="rounded-t"
                 />
-                <h2 className="text-center py-1">Hollow Khnoght</h2>
+                <h2 className="text-center py-1 font-orbitron font-semibold">
+                  Hollow Khnoght
+                </h2>
               </Link>
             </li>
           </ul>
