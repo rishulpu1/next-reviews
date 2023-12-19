@@ -33,7 +33,7 @@ export default function reviews() {
                   className="rounded-t"
                 />
                 <h2 className="text-center py-1 font-orbitron font-semibold">
-                  Hollow Khnoght
+                  Hollow Khnight
                 </h2>
               </Link>
             </li>
